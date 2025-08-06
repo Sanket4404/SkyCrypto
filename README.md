@@ -1,6 +1,6 @@
 # 💸 SkyCrypto – Crypto Portfolio App
 
-SkyCrypto is a beautifully designed **crypto portfolio & exchange app** built using **Kotlin + Jetpack Compose** for the Android Engineer assignment. It focuses on clean UI, pixel-perfect design, and smooth screen transitions using mock data.
+SkyCrypto is a beautifully designed **crypto portfolio & exchange app** built using **Kotlin + Jetpack Compose** for the Android Engineer assignment. It focuses on a clean UI, pixel-perfect design, and smooth screen transitions, utilising mock data.
 
 ---
 
