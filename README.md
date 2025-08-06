@@ -7,23 +7,24 @@ SkyCrypto is a beautifully designed **crypto portfolio & exchange app** built us
 ## 📱 Screens
 
 ### 📊 Dashboard
-![Dashboard](https://github.com/user-attachments/assets/de2b5e73-7747-472b-b36a-26efbf27fb2a)
+<img src="https://github.com/user-attachments/assets/3dfbff1c-baec-4c45-9f9d-6e060644cffa"  width="300"/>
+
 
 ---
 
 ### 🔁 Exchange
-![Exchange](https://github.com/user-attachments/assets/d6d09d34-c305-4541-9fba-191f22bd2c49)
+<img src="https://github.com/user-attachments/assets/3f19bda4-c185-4d6f-a032-db23d710d071" alt="Exchange" width="300"/>
 
 
 ---
 
 ### 📄 Transactions
-![Transactions](https://github.com/user-attachments/assets/dddc39bd-885e-4647-a04b-be8b24d9b888)
+<img src="https://github.com/user-attachments/assets/592ee8c3-2ec4-47e7-9d15-a91944a402a0" alt="Transactions" width="300"/>
 
 ---
 
 ### 👛 Wallet
-![Wallet](https://github.com/user-attachments/assets/4d379ab5-95bb-40e0-a9bf-ed0d67b7a663)
+<img src="https://github.com/user-attachments/assets/4b734f7a-7367-4701-ad6d-16c33f2315ed" alt="Wallet" width="300"/>
 
 
 > 💡 *All data is mock — No backend/API integration.*
