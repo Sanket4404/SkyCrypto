@@ -1,4 +1,4 @@
-# 💸 SkyCrypto – Crypto Portfolio App
+![exchange](https://github.com/user-attachments/assets/611dca30-db5b-4e6b-a383-7bba47296c6f)# 💸 SkyCrypto – Crypto Portfolio App
 
 SkyCrypto is a beautifully designed **crypto portfolio & exchange app** built using **Kotlin + Jetpack Compose** for the Android Engineer assignment. It focuses on clean UI, pixel-perfect design, and smooth screen transitions using mock data.
 
@@ -6,13 +6,25 @@ SkyCrypto is a beautifully designed **crypto portfolio & exchange app** built us
 
 ## 📱 Screens
 
-| 📊 Dashboard | 🔁 Exchange |
-|-------------|-------------|
-| ![Dashboard](https://github.com/user-attachments/assets/457acdda-2ddc-4fc9-b46a-b1affd5c261d/WhatsApp%20Image%202025-08-07%20at%2000.20.42_fbff785d.jpg) | ![Exchange](https://github.com/user-attachments/assets/80fb628c-548e-4b77-b899-037fb9727ae0/WhatsApp%20Image%202025-08-07%20at%2000.20.43_56bb8409.jpg) |
+### 📊 Dashboard
+![Dashboard] ![dashboard](https://github.com/user-attachments/assets/de2b5e73-7747-472b-b36a-26efbf27fb2a)
 
-| 📄 Transactions | 👛 Wallet |
-|----------------|-----------|
-| ![Transactions](https://github.com/user-attachments/assets/cce2b693-22ff-4bdd-ba60-ece907555e92/WhatsApp%20Image%202025-08-07%20at%2000.20.43_c1abf6c9.jpg) | ![Wallet](https://github.com/user-attachments/assets/9ab9e292-1141-40a0-9561-eeeaad283626/WhatsApp%20Image%202025-08-07%20at%2000.20.43_65d0c78c.jpg) |
+---
+
+### 🔁 Exchange
+![Exchange] ![exchange](https://github.com/user-attachments/assets/d6d09d34-c305-4541-9fba-191f22bd2c49)
+
+
+---
+
+### 📄 Transactions
+![Transactions] ![transactions](https://github.com/user-attachments/assets/dddc39bd-885e-4647-a04b-be8b24d9b888)
+
+---
+
+### 👛 Wallet
+![Wallet] ![wallet](https://github.com/user-attachments/assets/4d379ab5-95bb-40e0-a9bf-ed0d67b7a663)
+
 
 > 💡 *All data is mock — No backend/API integration.*
 
