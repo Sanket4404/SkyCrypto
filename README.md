@@ -1,4 +1,4 @@
-![exchange](https://github.com/user-attachments/assets/611dca30-db5b-4e6b-a383-7bba47296c6f)# 💸 SkyCrypto – Crypto Portfolio App
+# 💸 SkyCrypto – Crypto Portfolio App
 
 SkyCrypto is a beautifully designed **crypto portfolio & exchange app** built using **Kotlin + Jetpack Compose** for the Android Engineer assignment. It focuses on clean UI, pixel-perfect design, and smooth screen transitions using mock data.
 
